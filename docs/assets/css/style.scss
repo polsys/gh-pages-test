@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    padding: 0.5rem;
+}
+
+a h1 {
+    color: #606c71;
+}
+
+/* You know what? Table headers are for wimps. (I have a use case in mind.) */
+thead {
+    display: none;
+}
