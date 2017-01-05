@@ -9,3 +9,4 @@ This repository may be useful as an example of how to set up Pages. The objectiv
 
 ### What I've learned so far
 * **Paths are case-sensitive.** This is a no-brainer for Linux folks, but I'm a Windows guy.
+* **Emoji aren't free.** You have to [include a plugin](https://help.github.com/articles/emoji-on-github-pages/).
